@@ -868,7 +868,7 @@ client.on("interactionCreate", async (interaction) => {
             label: "Pokemon Center",
             value: "pokemon_center",
             emoji: "⚡",
-            description: "Account required",
+            description: "No account needed",
           },
           {
             label: "Walmart CA",
@@ -1269,7 +1269,7 @@ client.on("interactionCreate", async (interaction) => {
             label: "Pokemon Center",
             value: "pokemon_center",
             emoji: "⚡",
-            description: "Account required",
+            description: "No account needed",
           },
           {
             label: "Walmart CA",
@@ -1336,7 +1336,7 @@ client.on("interactionCreate", async (interaction) => {
             label: "Pokemon Center",
             value: "pokemon_center",
             emoji: "⚡",
-            description: "Account required",
+            description: "No account needed",
           },
           {
             label: "Walmart CA",
