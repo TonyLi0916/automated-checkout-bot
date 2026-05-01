@@ -1,0 +1,14 @@
+{
+  "name": "automated-checkout-bot",
+  "version": "2.0.0",
+  "description": "Discord bot for automated checkout client onboarding, profile management, CSV export, and Google Sheets checkout logging",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "googleapis": "^144.0.0"
+  }
+}
