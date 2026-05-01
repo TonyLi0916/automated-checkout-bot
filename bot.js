@@ -40,7 +40,7 @@ const SITES = [
   "gamestop_ca",
   "premium_tier",
 ];
-const SITES_REQUIRING_ACCOUNTS = ["costco", "pokemon_center"];
+const SITES_REQUIRING_ACCOUNTS = ["costco"];
 
 const SITE_NAMES = {
   walmart_ca: "Walmart CA",
@@ -809,7 +809,7 @@ client.on("interactionCreate", async (interaction) => {
           "**How it works:**\n" +
           "Click the button below to open a private ticket. You'll select your site(s) and submit your profile info. I'll handle the rest.\n\n" +
           "**Available sites:**\n" +
-          "⚡ **Pokemon Center** — account required\n" +
+          "⚡ **Pokemon Center** — no account needed\n" +
           "🛒 **Walmart CA** — no account needed\n" +
           "📦 **Costco** — account required\n" +
           "🎮 **GameStop CA** — no account needed\n" +
